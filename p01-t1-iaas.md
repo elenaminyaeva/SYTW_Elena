@@ -21,3 +21,5 @@ v13.2.0`
 `MacBook-Pro-Elena:~ elenaminyaeva$ ruby -v` <br/>
 `ruby 2.3.7p456 (2018-03-28 revision 63024) [universal.x86_64-darwin17]` <br/>
 El primer paso para instalar `rvm` es el *mpapis public key* <br/>
+`MacBook-Pro-Elena:~ elenaminyaeva$ brew upgrade gnupg` <br/>
+  gpg --keyserver hkp://keys.gnupg.net
